@@ -1,4 +1,4 @@
-x = 10
-y = 5
+x = int(input())
+y = int(input())
 summ = x+y
 print(summ)
